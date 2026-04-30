@@ -118,6 +118,6 @@ Contributions welcome. See [CONTRIBUTING.md](CONTRIBUTING.md). The most useful P
 
 ## Credits
 
-Built by [Yash Nayi](https://github.com/yashnayi234). Inspired by the pattern of treating LLMs as multi-role teams rather than single generalists, and shaped through real use building [Auron](https://github.com/yashnayi234) and other products.
+Built by [Yash Nayi](https://github.com/yashnayi234). Inspired by the pattern of treating LLMs as multi-role teams rather than single generalists, and shaped through real use building products.
 
 If this skill helps you ship something, I'd love to hear about it — open an issue or tag me.
