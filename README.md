@@ -51,7 +51,7 @@ Each role tags its section so you know who's "talking," but you get one cohesive
 ### Option B — Claude Code
 
 ```bash
-git clone https://github.com/<your-username>/fullstack-ai-team-skill.git
+git clone https://github.com/yashnayi234/fullstack-ai-team-skill.git
 cp -r fullstack-ai-team-skill/skill ~/.claude/skills/fullstack-ai-team
 ```
 
